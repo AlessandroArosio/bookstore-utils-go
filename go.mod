@@ -1,4 +1,4 @@
-module mod
+module github.com/alessandroarosio/bookstore-utils-go
 
 go 1.14
 
